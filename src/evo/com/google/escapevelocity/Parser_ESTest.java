@@ -29,7 +29,7 @@ public class Parser_ESTest extends Parser_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s; O que não parece viável para
+    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s, o que não parece viável para
     *     um teste que apenas faz parse de uma string pequena.
     *
     * Compreensivel: sim
@@ -128,7 +128,7 @@ public class Parser_ESTest extends Parser_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s; O que não parece viável para
+    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s, o que não parece viável para
     *     um teste que apenas faz parse de uma string pequena.
     *
     * Compreensivel: sim
@@ -145,7 +145,7 @@ public class Parser_ESTest extends Parser_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s; O que não parece viável para
+    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s, o que não parece viável para
     *     um teste que apenas faz parse de uma string pequena.
     *
     * Compreensivel: sim
@@ -163,7 +163,7 @@ public class Parser_ESTest extends Parser_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s; O que não parece viável para
+    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s, o que não parece viável para
     *     um teste que apenas faz parse de uma string pequena.
     *
     * Compreensivel: sim
@@ -236,7 +236,7 @@ public class Parser_ESTest extends Parser_ESTest_scaffolding {
     * Informações do teste
     *
     * Plausível: não
-    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s; O que não parece viável para
+    *     - O único comporamento verificado é se o teste pode ser executado no tempo de 4s, o que não parece viável para
     *     um teste que apenas faz parse de uma string pequena.
     *
     * Compreensivel: sim

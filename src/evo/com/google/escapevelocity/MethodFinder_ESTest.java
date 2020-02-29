@@ -32,7 +32,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     a chamada ao método publicMethodsWithName() com parâmentros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test0() throws Throwable {
@@ -58,7 +58,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     a chamada ao método publicMethodsWithName() com parâmentros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test1() throws Throwable {
@@ -85,7 +85,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     a tamanho do ImmutableSet é igual ao esperado.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test2() throws Throwable {
@@ -100,10 +100,10 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *
     * Plausível: sim
     *     - O teste verifica os seguintes comportamentos: primeiro se ele pode ser executado no tempo de 4s; Em seguida, se
-    *     o MethodFinder inicializado com parâmetros null é igual a null.
+    *     o MethodFinder inicializado com parâmetros inválidos é igual a null.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test3() throws Throwable {
@@ -119,7 +119,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     a chamada ao método visibleMethod() com parâmentros inválidos lança uma NullPointerException.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test4() throws Throwable {
@@ -145,7 +145,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     a tamanho do ImmutableSet é igual ao esperado.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test5() throws Throwable {
@@ -164,7 +164,7 @@ public class MethodFinder_ESTest extends MethodFinder_ESTest_scaffolding {
     *     dois ImmutableSet são iguais.
     *
     * Compreensivel: sim
-    *     - O comportamento do teste quanto e suas instruções são compreesíveis.
+    *     - O comportamento do teste e suas instruções são compreesíveis.
     */
     @Test(timeout = 4000)
     public void test6() throws Throwable {
