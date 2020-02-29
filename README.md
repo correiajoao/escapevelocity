@@ -1,3 +1,13 @@
+
+Testes gerados pela ferramenta EvoSuite
+===================
+* [Template_ESTest.java](https://github.com/correiajoao/escapevelocity/blob/master/src/evo/com/google/escapevelocity/Template_ESTest.java)
+* [Macro_ESTest.java](https://github.com/correiajoao/escapevelocity/blob/master/src/evo/com/google/escapevelocity/Macro_ESTest.java)
+* [MethodFinder_ESTest.java](https://github.com/correiajoao/escapevelocity/blob/master/src/evo/com/google/escapevelocity/MethodFinder_ESTest.java)
+* [Parser_ESTest.java](https://github.com/correiajoao/escapevelocity/blob/master/src/evo/com/google/escapevelocity/Parser_ESTest.java)
+* [ReferenceNode_ESTest.java](https://github.com/correiajoao/escapevelocity/blob/master/src/evo/com/google/escapevelocity/ReferenceNode_ESTest.java)
+
+
 # EscapeVelocity summary
 
 EscapeVelocity is a templating engine that can be used from Java. It is a reimplementation of a subset of
